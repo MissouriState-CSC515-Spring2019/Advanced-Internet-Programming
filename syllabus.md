@@ -22,7 +22,9 @@ Lectures will be recorded and available on YouTube for later review. However, av
 Due to my travel schedule, some lectures will be pre-recorded and distributed only as a YouTube video. Students will be expected to watch the video and material in these lectures will be part of tests and assignments.
 
 <div style="page-break-after:always;"></div>
+
 ### Learning Outcomes
+
 Upon completion of the course, students should:
 
  1. Know and comfortably use git workflow through github.
@@ -55,6 +57,7 @@ You should not expect special assistance on homework or projects unless you are 
  8. Dissecting HTTP
 
 <div style="page-break-after:always;"></div>
+
 ### Grading
 
 Component                  | Percentage
