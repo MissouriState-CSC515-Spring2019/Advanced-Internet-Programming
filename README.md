@@ -3,6 +3,7 @@ Spring 2019
 
 ## Overview
  * [Course Syllabus](syllabus.md)
+ * [Lecture Videos](https://www.youtube.com/playlist?list=PLySiLhgfbmzaC3dTLLwKwbrhaTAzdp6IF)
 
 ### Reference Material
  * [EcmaScript 2015 (ES6)](https://github.com/nzakas/understandinges6)
