@@ -4,6 +4,7 @@ Spring 2019
 ## Overview
  * [Course Syllabus](syllabus.md)
  * [Lecture Videos](https://www.youtube.com/playlist?list=PLySiLhgfbmzaC3dTLLwKwbrhaTAzdp6IF)
+ * [Slack Workspace](https://msucsc515615sp2019.slack.com)
 
 ### Reference Material
  * [EcmaScript 2015 (ES6)](https://github.com/nzakas/understandinges6)
